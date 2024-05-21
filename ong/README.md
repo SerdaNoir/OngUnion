@@ -1,4 +1,7 @@
 # Documentação
+Nomes dos integrantes: Gustavo Moreira Silva, Kaike Arruda Dutra, Victor Souza Ferreira, Matheus Ferreira Vieira, Marcos, Fernando Rocca, Pedro Belga.
+*************************************************************************************************************************
+
 Para utilizar esse MVP, utilize o link do Snack React Expo: https://snack.expo.dev/@guguhcolossal/ong | E emule em um dispositivo.
 
 Gráfico matriz de risco: ![Meetings Whiteboard](https://github.com/SerdaNoir/OngUnion/assets/100097997/8840ab68-0feb-4cb6-bdf9-07bf961d9172)
